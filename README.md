@@ -30,7 +30,7 @@
 
 ## 📂 **Code Repository**
 Explore the code and contribute to the project:  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhprasanna-spec/DevSecOps-01.git)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GitHarsh999/DevsecOps.git)
 
 
 ---
@@ -48,7 +48,7 @@ Explore the code and contribute to the project:
 
 Let's connect and discuss DevSecOps  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasanna---waghmare/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/harshwardhan-nagane](https://www.linkedin.com/in/harshwardhan-nagane-53b661299 ))  
 
 
 
