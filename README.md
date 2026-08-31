@@ -48,8 +48,7 @@ Explore the code and contribute to the project:
 
 Let's connect and discuss DevSecOps  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([linkedin.com/in/harshwardhan-nagane](https://www.linkedin.com/in/harshwardhan-nagane-53b661299 ))  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshwardhan-nagane-53b661299)  
 
 
 
